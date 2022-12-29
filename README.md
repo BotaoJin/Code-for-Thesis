@@ -1,5 +1,1 @@
 # Code-for-Thesis
-
-
-
-$d$
